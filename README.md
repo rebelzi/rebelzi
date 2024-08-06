@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="24278633" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"></div>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/ISaYTs-r2L8AAAAC/marsha-lenathea-jkt48.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Firdaus Chuzaeni</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
