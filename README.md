@@ -1,3 +1,4 @@
+<div class="tenor-gif-embed" data-postid="24278633" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"></div>
 <h1 align="center">Hi 👋, I'm Muhammad Firdaus Chuzaeni</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
